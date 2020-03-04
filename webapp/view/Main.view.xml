@@ -9,6 +9,7 @@
 						<Table></Table>
 						<Carousel></Carousel>
 						<Text></Text>
+						<Label text="label1"/>
 					</content>
 				</Page>
 			</pages>
