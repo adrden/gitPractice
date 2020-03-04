@@ -8,6 +8,7 @@
 						<Text text="test"/>
 						<Table></Table>
 						<Carousel></Carousel>
+						<Text></Text>
 					</content>
 				</Page>
 			</pages>
