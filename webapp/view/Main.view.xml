@@ -5,6 +5,9 @@
 				<Page id="page" title="{i18n>title}">
 					<content>
 						<Input id="text"/>
+						<Text text="test"/>
+						<Table></Table>
+						<Carousel></Carousel>
 					</content>
 				</Page>
 			</pages>
